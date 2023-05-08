@@ -60,7 +60,7 @@ function Discord() {
 }
 function Telegram() {
   setTimeout(function() {
-    window.open('', 'ultimate')},
+    window.open('https://t.me/', 'ultimate')},
   100);
 }
 
