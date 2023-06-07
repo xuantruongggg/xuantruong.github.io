@@ -43,22 +43,22 @@ tick();
      // LINK
 //▬▬▬▬▬▬▬▬▬▬
 
-function Youtube() {
+function Youtube : Châu Chấu () {
   setTimeout(function() {
     window.open('https://www.youtube.com/channel/UC7GmT4U1e9L-zlCLQ1ttQdg', 'ultimate')},
   100);
 }
-function Facebook() {
+function Facebook : Noo.Perfact () {
   setTimeout(function() {
     window.open('https://www.facebook.com/Noo.Perfact', 'ultimate')},
   100);
 }
-function Discord() {
+function Discord TrunTrun4523 () {
   setTimeout(function() {
     window.open('https://dsc.bio/NgXuanTruong', 'ultimate')},
   100);
 }
-function Telegram() {
+function Telegram Xuan Truong() {
   setTimeout(function() {
     window.open('https://t.me/', 'ultimate')},
   100);
