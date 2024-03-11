@@ -50,7 +50,7 @@ function Youtube() {
 }
 function Facebook() {
   setTimeout(function() {
-    window.open('https://www.facebook.com/Noo.Perfact', 'ultimate')},
+    window.open('https://www.facebook.com/bapxuntruong', 'ultimate')},
   100);
 }
 function Discord() {
